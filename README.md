@@ -2,4 +2,5 @@
 
 💻 Technologies & Tools
 Languages
-<i class="fa-brands fa-python"></i>
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png

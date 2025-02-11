@@ -1,6 +1,6 @@
 ﻿# André Silva
 
-<h1💻 Technologies & Tools</h1>
+<h1> 💻 Technologies & Tools </h1>
 
 
 

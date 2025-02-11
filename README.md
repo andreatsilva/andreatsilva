@@ -1,10 +1,10 @@
 ﻿# André Silva
 
-💻 Technologies & Tools
+<h1💻 Technologies & Tools</h1>
 
 
 
-<h1>Languages: </h1>
+<h2>Languages: </h2>
 
 
 <div align="left">
@@ -25,7 +25,7 @@
 
 
 
-<h1>Eletronics and Robotics: </h1>
+<h2>Eletronics and Robotics: </h2>
 
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
